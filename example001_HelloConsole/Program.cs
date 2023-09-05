@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("2 Hello, World!");
+// узнал что есть -a что позволяет автоматически добавлять и комитеть все изменёные фаилы в репозитории
