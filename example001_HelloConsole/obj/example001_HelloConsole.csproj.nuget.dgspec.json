@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj": {}
+    "d:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "D:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj": {
+    "d:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
+        "projectUniqueName": "d:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
         "projectName": "example001_HelloConsole",
-        "projectPath": "D:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
+        "projectPath": "d:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\neonm\\.nuget\\packages\\",
-        "outputPath": "D:\\dew\\four\\examples\\example001_HelloConsole\\obj\\",
+        "outputPath": "d:\\dew\\four\\examples\\example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\neonm\\AppData\\Roaming\\NuGet\\NuGet.Config"
