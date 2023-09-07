@@ -392,7 +392,7 @@ test-results/
 .DS_Store
 .AppleDouble
 .LSOverride
-.gitignor
+.gitignore
 
 # Icon must end with two \r
 Icon

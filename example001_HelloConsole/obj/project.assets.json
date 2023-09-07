@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\neonm\\.nuget\\packages\\": {}
+    "C:\\Users\\HOME\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
+      "projectUniqueName": "c:\\dew\\example\\HelloCode\\example001_HelloConsole\\example001_HelloConsole.csproj",
       "projectName": "example001_HelloConsole",
-      "projectPath": "D:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
-      "packagesPath": "C:\\Users\\neonm\\.nuget\\packages\\",
-      "outputPath": "D:\\dew\\four\\examples\\example001_HelloConsole\\obj\\",
+      "projectPath": "c:\\dew\\example\\HelloCode\\example001_HelloConsole\\example001_HelloConsole.csproj",
+      "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
+      "outputPath": "c:\\dew\\example\\HelloCode\\example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\neonm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
