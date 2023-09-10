@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dew\\example\\HelloCode\\example001_HelloConsole\\example001_HelloConsole.csproj": {}
+    "d:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "c:\\dew\\example\\HelloCode\\example001_HelloConsole\\example001_HelloConsole.csproj": {
+    "d:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dew\\example\\HelloCode\\example001_HelloConsole\\example001_HelloConsole.csproj",
+        "projectUniqueName": "d:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
         "projectName": "example001_HelloConsole",
-        "projectPath": "c:\\dew\\example\\HelloCode\\example001_HelloConsole\\example001_HelloConsole.csproj",
-        "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "c:\\dew\\example\\HelloCode\\example001_HelloConsole\\obj\\",
+        "projectPath": "d:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
+        "packagesPath": "C:\\Users\\neonm\\.nuget\\packages\\",
+        "outputPath": "d:\\dew\\four\\examples\\example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\neonm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
