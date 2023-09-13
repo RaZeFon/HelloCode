@@ -1,16 +1,16 @@
-﻿//using System;
-<<<<<<< HEAD
-//Console.Write("Введите чило A: ");
-//int number_A = int.Parse(Console.ReadLine());
-//int i = 0;
-//int sum = 0;
-//while(i <= number_A)
-//{
-//    sum = sum + i;
-//    i++;
-//}
-//Console.WriteLine(sum);
-
+﻿/*
+using System;
+Console.Write("Введите чило A: ");
+int number_A = int.Parse(Console.ReadLine());
+int i = 0;
+int sum = 0;
+while(i <= number_A)
+{
+    sum = sum + i;
+    i++;
+}
+Console.WriteLine(sum);
+*/
 
 //using System;
 //using static System.Console;
@@ -85,7 +85,7 @@ using System;
 using static System.Console;
 
 Clear();
-<<<<<<< HEAD
+
 Write("Введите число: ");
 */
 /* 1-вариант

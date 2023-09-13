@@ -20,11 +20,7 @@
       "outputPath": "d:\\dew\\four\\examples\\example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
         "C:\\Users\\neonm\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 26f779e91d0d035ad08b31b33aef8b293d5b667b
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -68,5 +64,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша d:\\dew\\four\\examples\\example001_HelloConsole\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
