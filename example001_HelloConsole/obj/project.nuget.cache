@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "xKvJwCFZTtx01LRzT2UTQvlhWoI5LZysZHcRPPrHS+hkUMHsj2vidR1uIopsGZpjHMHTnnjR76phU/2MByfTjA==",
-=======
-  "dgSpecHash": "PHg2VD11YSnZmioQYPIqi6ynhsoVKJ9K7Ea6e5rh1Uq6giA/bvkqCGaltkXVhGjbrxHNT7gZtcIHex6YFkyucQ==",
->>>>>>> 26f779e91d0d035ad08b31b33aef8b293d5b667b
   "success": true,
-  "projectFilePath": "d:\\dew\\four\\examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
+  "projectFilePath": "c:\\dew\\example\\HelloCode\\example001_HelloConsole\\example001_HelloConsole.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша c:\\dew\\example\\HelloCode\\example001_HelloConsole\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
