@@ -98,6 +98,30 @@ bool isTriangle(int a, int b, int c)
 */
 
 
+using System;
+using System.Xml.XPath;
+using static System.Console;
+Clear();
+WriteLine("Конвертация из 10-системы счисления в 2-систему счисления");
+Write("Введитк число: ");
+int number = int.Parse(ReadLine());
+WriteLine(NumberBinary(number));
 
-
-
+string NumberBinary(int num)
+{
+    string result = string.Empty;
+    while (num >= 1)
+    { 
+        if(num % 2 == 0) 
+        {
+            num /= 2; 
+            result += "0";
+        }
+        else
+        {
+            num /= 2;
+            result += "1";
+        }
+    }
+    return result;
+}

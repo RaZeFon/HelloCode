@@ -1,4 +1,4 @@
-﻿/*
+﻿
 using System;
 using static System.Console;
 
@@ -32,9 +32,9 @@ int[] GetArray(int size, int min, int max)
     }
     return result;
 }
-*/
 
-/*
+
+
 using System;
 using static System.Console;
 
@@ -68,9 +68,9 @@ int[] Revers(int size1, int[] rew_array)
     }
     return rew_array;
 }
-*/
 
-/*
+
+
 using System;
 using static System.Console;
 
@@ -98,9 +98,9 @@ void InverseArray(int[] inArray)
     }
 
 }
-*/
 
-/*
+
+
 using System;
 using static System.Console;
 
@@ -139,9 +139,9 @@ bool FindElement(int[] inArray, int el) //метод который ищет э�
     }
     return false;
 }
-*/
 
-/*
+
+
 using System;
 using static System.Console;
 
@@ -173,7 +173,7 @@ int[] GetArray(int size, int min, int max) //метод создает ранд�
     }
     return result;
 }
-*/
+
 
 
 using System;
